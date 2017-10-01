@@ -1,24 +1,5 @@
-# README
+# Hello there!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is just a basic project I'm working on, no frequent updates will be done as I've got to study and so, but expect something cool!
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Please note that this Portfolio project will be completely open-source and free, use it as you want!
